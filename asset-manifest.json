@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/dropthenameapp/static/css/main.de1b7915.chunk.css",
+    "main.js": "/dropthenameapp/static/js/main.c74416c9.chunk.js",
+    "main.js.map": "/dropthenameapp/static/js/main.c74416c9.chunk.js.map",
+    "runtime-main.js": "/dropthenameapp/static/js/runtime-main.6454b91f.js",
+    "runtime-main.js.map": "/dropthenameapp/static/js/runtime-main.6454b91f.js.map",
+    "static/js/2.cc2a0a7d.chunk.js": "/dropthenameapp/static/js/2.cc2a0a7d.chunk.js",
+    "static/js/2.cc2a0a7d.chunk.js.map": "/dropthenameapp/static/js/2.cc2a0a7d.chunk.js.map",
+    "index.html": "/dropthenameapp/index.html",
+    "static/css/main.de1b7915.chunk.css.map": "/dropthenameapp/static/css/main.de1b7915.chunk.css.map",
+    "static/js/2.cc2a0a7d.chunk.js.LICENSE.txt": "/dropthenameapp/static/js/2.cc2a0a7d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.6454b91f.js",
+    "static/js/2.cc2a0a7d.chunk.js",
+    "static/css/main.de1b7915.chunk.css",
+    "static/js/main.c74416c9.chunk.js"
+  ]
+}
